@@ -34,6 +34,13 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [replit.com](https://replit.com) | *Must host using Replit*
 | [dual.my](https://dual.my/) |
 | [tilde.tk](https://github.com/youngchief-btw/tilde.tk)
+| [getlocalcert.net](https://www.getlocalcert.net) | *For private network use only* |
+| [ngo.us](https://nic.ngo.us) | *For only verified not-for-profit organizations, NGOs* |
+| [nyc.mn](https://dot.nyc.mn) | *Must be related to New York City, NYC IP required* |
+| [obl.ong](https://obl.ong) |
+| [OpenHost](https://registry.openhost.uk) | *Offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with Mozilla PSL support* |
+| [pp.ua](https://pp.ua) |
+| [us.kg](https://nic.us.kg) | *Requires KYC process and annual renewal* |
 
 # Contributing
 
